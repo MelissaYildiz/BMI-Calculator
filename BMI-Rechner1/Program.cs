@@ -68,21 +68,7 @@
                     Console.WriteLine("Übergewicht");
                 else
                     Console.WriteLine("Adipositas");
-            }
-            
-            
-
-
-          
-
-                                            
-
-            
-
-          
-
-
-           
+            }  
         }
     }
 }
