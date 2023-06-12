@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.AssemblyInfo.cs
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\bin\Debug\net7.0\BMI-Rechner1.exe
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\bin\Debug\net7.0\BMI-Rechner1.deps.json
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\bin\Debug\net7.0\BMI-Rechner1.runtimeconfig.json
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\bin\Debug\net7.0\BMI-Rechner1.dll
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\bin\Debug\net7.0\BMI-Rechner1.pdb
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.dll
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\refint\BMI-Rechner1.dll
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.pdb
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\BMI-Rechner1.genruntimeconfig.cache
+C:\Users\Student\Documents\Utku project\P2\BMI-Rechner1\obj\Debug\net7.0\ref\BMI-Rechner1.dll
